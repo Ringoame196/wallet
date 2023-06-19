@@ -1,0 +1,4 @@
+name: wallet
+version: '${project.version}'
+main: com.github.ringoame196.wallet.Wallet
+api-version: 1.19
